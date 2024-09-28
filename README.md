@@ -1,4 +1,4 @@
-# CloudInfra-Terraform
+# Terraform-Cloud-Setup
 
 This project automates the deployment of essential AWS resources using Terraform. It provisions an EC2 instance and manages an S3 bucket for backend state storage, leveraging Terraform modules for scalable infrastructure as code (IaC) practices.
 
